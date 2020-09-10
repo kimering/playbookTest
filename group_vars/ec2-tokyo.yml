@@ -1,0 +1,6 @@
+---
+key_name: asgard-test-ec2-ssh-key
+region: ap-northeast-1
+image: ami-0cc75a8978fbbc969
+sec_group: 	sg-0ef64a541fac662f4
+vpc_subnet_id: subnet-026cbdf685ee58384
