@@ -4,162 +4,151 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
-- name: Hello World Sample
-  hosts: all
-  tasks:
-    - name: Hello Message
-      debug:
-        msg: "Hello World!"
-
-- name: Hello World Sample
-  hosts: all
-  tasks:
-    - name: Hello Message
-      debug:
-        msg: "Hello World!"
-
-- name: Hello World Sample
-  hosts: all
-  tasks:
-    - name: Hello Message
-      debug:
-        msg: "Hello World!"
-        
-- name: Hello World Sample
-  hosts: all
-  tasks:
-    - name: Hello Message
-      debug:
-        msg: "Hello World!"
-
-- name: Hello World Sample
-  hosts: all
-  tasks:
-    - name: Hello Message
-      debug:
-        msg: "Hello World!"
+        msg: "Hello World!0"
   
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!1"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!2"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
-
+        msg: "Hello World!3"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!4"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!5"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!6"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!7"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!8"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!9"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
-
+        msg: "Hello World!10"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
-
+        msg: "Hello World!11"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!12"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!13"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
-
+        msg: "Hello World!14"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!15"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
-
+        msg: "Hello World!16"
+  
 - name: Hello World Sample
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!"
+        msg: "Hello World!17"
+  
+- name: Hello World Sample
+  hosts: localhost
+  tasks:
+    - name: Hello Message
+      debug:
+        msg: "Hello World!18"
+  
+- name: Hello World Sample
+  hosts: localhost
+  tasks:
+    - name: Hello Message
+      debug:
+        msg: "Hello World!19"
+  
+- name: Hello World Sample
+  hosts: localhost
+  tasks:
+    - name: Hello Message
+      debug:
+        msg: "Hello World!20"
+  
+- name: Hello World Sample
+  hosts: localhost
+  tasks:
+    - name: Hello Message
+      debug:
+        msg: "Hello World!21"
